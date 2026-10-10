@@ -16,4 +16,5 @@ Project ini dibuat sebagai bagian dari kelas Fullstack Developer di SantriKoding
    ```bash
    go run main.go
 2. Jalankan frontend:
+   ```bash
    npm start
